@@ -1,0 +1,10 @@
+tensorflow-cpu==2.18.0
+matplotlib
+scipy
+numpy
+pandas
+scikit-learn
+requests
+pyarrow
+pillow==11.1.0
+transformers==4.38.2
