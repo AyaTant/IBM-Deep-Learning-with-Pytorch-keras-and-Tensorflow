@@ -8,3 +8,5 @@ requests
 pyarrow
 pillow==11.1.0
 transformers==4.38.2
+keras-tuner==1.4.7
+gymnasium
